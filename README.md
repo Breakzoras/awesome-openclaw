@@ -178,6 +178,7 @@ These providers handle the setup for you: no Docker, no terminal, no DevOps requ
 - [Kilo Claw](https://kilo.ai/kiloclaw) - Managed OpenClaw platform with SSO and audit features. 💵
 - [MyClaw.ai](https://myclaw.ai/pricing) - Managed OpenClaw instance with instant setup and backups. 💵
 - [Myclawhost](https://www.myclawhost.com/) - Managed OpenClaw hosting with tiered plans. 💵
+- - [OneClickClaw](https://oneclickclaw.io) - Managed OpenClaw on a dedicated EU VPS, security-hardened by default (no exposed gateway, auth enforced), with auto-updates, daily backups, BYOK and GDPR-ready data residency. 💵
 - [OpenClaw Cloud](https://openclawcloud.work/) - Managed OpenClaw cloud offering (beta). 💵
 - [OpenClaw Hosting](https://openclawhosting.io/pricing) - Managed OpenClaw hosting with solo/team tiers. 💵
 - [OpenClaw Voice](https://openclawvoice.com/) - Managed OpenClaw voice interface in the browser. 💵
